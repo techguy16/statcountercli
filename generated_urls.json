@@ -1,0 +1,16 @@
+{
+  "URLs": [
+    {
+      "Name": "Browsers (all devices)",
+      "ID": "browser-all",
+      "URL": "https://gs.statcounter.com/chart.php?device=Desktop%20%26%20Mobile%20%26%20Tablet%20%26%20Console&device_hidden=desktop%2Bmobile%2Btablet%2Bconsole&multi-device=true&statType_hidden=browser&region_hidden=ww&granularity=monthly&statType=Browser&region=Worldwide&fromInt=200901&toInt=$currentDate&fromMonthYear=2009-01&toMonthYear=$DateWithDash&csv=1",
+      "Output": "browsers/all.json"
+    },
+    {
+      "Name": "Operating Systems (desktop)",
+      "ID": "os-desktop",
+      "URL": "https://gs.statcounter.com/os-market-share/desktop/worldwide/chart.php?device=Desktop&device_hidden=desktop&statType_hidden=os_combined&region_hidden=ww&granularity=monthly&statType=Operating%20System&region=Worldwide&fromInt=200901&toInt=$currentDate&fromMonthYear=2009-01&toMonthYear=$DateWithDash&csv=1",
+      "Output": "os/desktop.json"
+    }
+  ]
+}
