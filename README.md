@@ -1,5 +1,5 @@
-# statcountercli
-CLI Application for StatCounter data.
+# StatCounterCLI
+CLI Application for parsing StatCounter data.
 
 ## Running
 ```bash
